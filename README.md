@@ -1,7 +1,7 @@
 <h1>Olá! Meu nome é Mario</h1>
 
 <!--- about me --->
-<p align="left">ᐟ Sou estudante do ensino médio e de TI, conhecimento médio tanto em Front-End quanto em Back-End</p>
+<p align="left"> Sou estudante do ensino médio e de TI, conhecimento médio tanto em Front-End quanto em Back-End</p>
 <p align="left"> PT-BR/ENG</p>
 
 <!--- languages --->
@@ -24,5 +24,13 @@
   </div>
 <br clear="all"><br>
 
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-182&card_width=360&layout=compact&theme=dracula"/>
-<img align=right src="https://github-readme-stats.vercel.app/api?username=Mario-182&show_icons=true&theme=dracula&card_width=250"/>
+<!--- Find me --->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mario-rodrigues-braga-matos-857090364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mariorodriguesbragamatos@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/mariorbm182"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<!--- Stats --->
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-182&card_width=360&layout=compact&theme=ocean_dark"/>
+<img align=right src="https://github-readme-stats.vercel.app/api?username=Mario-182&show_icons=true&theme=ocean_dark&card_width=250"/>
