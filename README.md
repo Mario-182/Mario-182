@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>Olá! Meu nome é Mario</h1>
 
-<!--
-**Mario-182/Mario-182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- about me --->
+<p align="left">ᐟ Sou estudante do ensino médio e de TI, conhecimento médio tanto em Front-End quanto em Back-End</p>
+<p align="left"> PT-BR/ENG</p>
+<!------>
+<img src="https://64.media.tumblr.com/bee4701d5f546d8e58ce462dd4ba44e1/f85c482989dd06da-bd/s640x960/51ab11022471b3ff6b585afe1592f05e407f57a8.gifv" height="30" margin-bottom="-10px"/> 
 
-Here are some ideas to get you started:
+<!--- languages lear --->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b1/ad/ba/b1adba819abf70d9ea98d4e65ea9f2a5.gif" height="130" alt="my melody gif" align="left" width="15%" />
+  <div align="left" width="60%">
+    <h6>Possuo conhecimento em:</h6>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+    <img width="12"/><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt=mysql logo"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php"  />
+    <img width="12" />
+  </div>
+<br clear="all"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-182&card_width=360&layout=compact&theme=dracula"/>
+<img align=right src="https://github-readme-stats.vercel.app/api?username=Mario-182&show_icons=true&theme=dracula&card_width=250"/>
